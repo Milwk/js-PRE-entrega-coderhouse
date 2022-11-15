@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #e6d011;
+    color: rgb(158, 73, 73);
+}
+
+button{
+    cursor: pointer;
+    background-color: #1987b3;
+    border-radius: 6px;
+    color: whitesmoke;
+    width: 120px;
+    height: 30px;
+    transition: .4s;
+}
+
+button:hover{
+    background-color: #afda17;
+}
+
+.cantidad{
+    width: 200px;
+}
+
+#enviar{
+    cursor: pointer;
+    background-color: #1987b3;
+    border-radius: 6px;
+    color: whitesmoke;
+    width: 120px;
+    height: 30px;
+    transition: .4s;
+}
+
+#enviar:hover{
+    background-color: #1a6583;
+}
